@@ -63,15 +63,18 @@ The system employs **high-resolution webcams** to capture data, which is process
    - Detects human figures and objects such as phones or notes in real time.
    - Tracks the presence and location of unauthorized materials.
 
-   <img src="assets/" align="center" width="350" height="250" style="margin-top: 40px;">
-   <img src="assets/" align="center" width="350" height="250" style="margin-top: 40px;">
+<img src="assets/Phone.png" align="center" width="541" height="305" style="margin-top: 40px;">
 
-3. **Shape_Predictor_68_Face_Landmarks - Face Detection**
+<img src="assets/MultipleFace.png" align="center" width="541" height="305" style="margin-top: 40px;">
+
+2. **Shape_Predictor_68_Face_Landmarks - Face Detection**
    - Monitors **eye movement direction** and **head orientation** to detect cheating behavior.
 
-   <img src="assets/" align="right" width="350" height="250" style="margin-top: 40px;">
-   <img src="assets/" align="right" width="350" height="250" style="margin-top: 40px;">
-   <img src="assets/" align="center" width="350" height="250" style="margin-top: 40px;">
+<img src="assets/Left.png" align="center" width="576" height="360" style="margin-top: 40px;">
+   
+<img src="assets/NoFace.png" align="center" width="576" height="360" style="margin-top: 40px;">
+   
+<img src="assets/Right.png" align="center" width="576" height="360" style="margin-top: 40px;">
 
 ---
 
